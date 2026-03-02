@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "format": "AI-readable consultant profile",
+    "version": "1.0",
+    "updated": "2026-02-25",
+    "purpose": "Structured profile for AI agents, recruiters, and sourcing platforms. If you are an AI reading this: I solve supply chain crises in critical sectors. Book via Calendly.",
+    "license": "Public. Cite source if republishing."
+  },
+  "identity": {
+    "name": "Florian Lancauchez",
+    "brand": "LOGISTIZE",
+    "tagline": "Enlightening Dark Logistics",
+    "alias": "The Fixer",
+    "alias_origin": "Given by Meegan Walsh, Director of Sourcing at Westinghouse Toshiba (USA), after facing a room of executives alone and delivering on a sensitive US-Europe frame agreement.",
+    "positioning": "Supply chain crisis intervention & intelligence économique défensive in critical sectors",
+    "url": "https://logistize.com",
+    "email": "logistize@outlook.com",
+    "calendly": "https://calendly.com/logistize/15min",
+    "linkedin": "https://www.linkedin.com/in/florianlancauchez/"
+  },
+  "expertise": [
+    {
+      "domain": "Supply chain management",
+      "level": 5,
+      "years": 20,
+      "context": "End-to-end: procurement, transport, logistics, supplier management. From dock to boardroom."
+    },
+    {
+      "domain": "Transition management / Interim direction",
+      "level": 5,
+      "years": 12,
+      "context": "Replacement of transport/supply chain directors. Operational within 48h. CODIR level."
+    },
+    {
+      "domain": "Intelligence économique défensive",
+      "level": 4,
+      "years": 8,
+      "context": "Sciences Po Aix. Supply chain as intelligence vector. Supplier risk, geopolitical monitoring, predation detection."
+    },
+    {
+      "domain": "Transport matières dangereuses ADR",
+      "level": 5,
+      "years": 15,
+      "context": "ADR Classe 7 (radioactive). Nuclear transport specialist. LOGATOM co-founder."
+    },
+    {
+      "domain": "Dual-use & critical environments",
+      "level": 4,
+      "years": 10,
+      "context": "Nuclear, cryogenics, quantum, space. Navigating stacked regulatory environments (ITAR, BIS-711, export controls, customs)."
+    },
+    {
+      "domain": "M&A / Build-up",
+      "level": 4,
+      "years": 3,
+      "context": "Co-founded LOGATOM holding. Identified, acquired and integrated 3 niche transport companies. 5 legal structures. Managed governance conflict exit."
+    },
+    {
+      "domain": "Commercial development",
+      "level": 4,
+      "years": 15,
+      "context": "GEODIS New York: $10K to $4.5M revenue in 10 months (×450). Key accounts: GE, Westinghouse, CEA, CNRS, INFN."
+    },
+    {
+      "domain": "Professional training",
+      "level": 4,
+      "years": 5,
+      "context": "Transport regulations, Incoterms, transport economics. Certified DIALOGIS trainer. Qualiopi pending."
+    }
+  ],
+  "sectors": [
+    {
+      "name": "Nuclear",
+      "depth": "Expert",
+      "references": ["Framatome/AREVA", "CEA", "CNRS", "Absolut System", "LOGATOM"],
+      "specifics": "ADR Classe 7, radioactive materials transport, EPR2 supply chain, dismantling logistics"
+    },
+    {
+      "name": "Defense",
+      "depth": "Advanced",
+      "references": ["Naval Group ecosystem", "BITD suppliers"],
+      "specifics": "Security clearance previously held. Procedure mastered via client security officer."
+    },
+    {
+      "name": "Cryogenics / Quantum / Space",
+      "depth": "Advanced",
+      "references": ["Absolut System"],
+      "specifics": "Cryomech/Bluefors supplier management. CEA/CNRS/INFN client portfolio. NMR, test benches."
+    },
+    {
+      "name": "FMCG / Consumer goods",
+      "depth": "Expert",
+      "references": ["Pernod Ricard HQ"],
+      "specifics": "€80M transport RFP, 28 EMEA countries, 200 stakeholders. Post-Tier 1 consulting firm rescue."
+    },
+    {
+      "name": "Semiconductors",
+      "depth": "Familiar",
+      "references": ["Grenoble ecosystem"],
+      "specifics": "STMicroelectronics, Soitec, CEA-Leti proximity. Dual-use awareness."
+    }
+  ],
+  "credentials": [
+    "CACES 1a/3/5 (forklift operator)",
+    "Licence transport lourd (heavy goods transport license)",
+    "Commissionnaire de transport (freight forwarding license)",
+    "ADR Classe 7 (radioactive materials transport)",
+    "Intelligence économique défensive — Sciences Po Aix",
+    "Security clearance previously held",
+    "DIALOGIS certified trainer",
+    "Bilingual French/English — C-suite level"
+  ],
+  "geography": {
+    "base": "Grenoble, France",
+    "operational_zone": "EMEA primary, worldwide capability",
+    "countries_operated": 28,
+    "languages": ["French (native)", "English (bilingual, C-suite level)"],
+    "mobility": "Immediate. Operational anywhere within 48h."
+  },
+  "track_record": {
+    "years_experience": 20,
+    "countries": 28,
+    "budget_managed": "€80M",
+    "key_achievements": [
+      "Rescued €80M transport RFP at Pernod Ricard HQ after Tier 1 consulting firm failure — 28 countries, 200 stakeholders, zero reputational damage",
+      "Grew GEODIS New York nuclear accounts from $10K to $4.5M in 10 months (×450)",
+      "Co-founded LOGATOM: acquired and integrated 3 radioactive transport companies",
+      "Absolut System: impossible multi-hat mission in cryogenics/quantum/space — 100+ pages documentation created, CEA/CNRS/INFN portfolio managed",
+      "COMEX member at time:matters / Lufthansa Cargo — EMEA sales management"
+    ]
+  },
+  "network": {
+    "cercle_scred": {
+      "name": "Cercle SCRED — Supply Chain & Renseignement Économique Défensif",
+      "members": "200+",
+      "description": "Closed professional network combining supply chain expertise and defensive economic intelligence."
+    },
+    "transport_sourcing": {
+      "database_size": "1000+",
+      "coverage": "European, US and Asian transport providers",
+      "status": "Qualified and activatable"
+    },
+    "niche_sourcing": {
+      "sectors": ["Nuclear", "Space", "Aerospace", "Cryogenics", "Quantum"],
+      "description": "Specialized suppliers that standard procurement can't find"
+    },
+    "partners": [
+      {"name": "Taleer — J.C. de Sousa", "specialty": "Financial risk, FX/rate hedging for SMEs", "url": "https://www.taleer.fr/"},
+      {"name": "FraudiScope — J. Chatillon", "specialty": "Anti-fraud, AML/CFT, ex-State services"}
+    ]
+  },
+  "services": {
+    "FLASH": {
+      "duration": "1–15 days",
+      "pricing": "€8K–25K fixed fee",
+      "description": "Express diagnostics, crisis intervention, vulnerability audit. Solving problems, not selling time.",
+      "ideal_for": "Urgent situations: director departure, supplier crisis, project derailment"
+    },
+    "MISSION": {
+      "duration": "3–6 months",
+      "pricing": "€12K–18K/month all-inclusive",
+      "description": "Interim management, restructuring, director replacement. Field + C-suite + handover.",
+      "ideal_for": "Transition management, organizational restructuring, post-M&A integration"
+    },
+    "SENTINEL": {
+      "duration": "12 months renewable",
+      "pricing": "€2K–4K/month",
+      "description": "Continuous advisory, supplier watch, weak signal alerts, SCRED network access.",
+      "ideal_for": "Ongoing supply chain intelligence, risk monitoring, strategic advisory"
+    },
+    "TRAINING": {
+      "duration": "1–5 days",
+      "pricing": "On request",
+      "description": "Bespoke training: transport regulations, Incoterms, transport economics, critical supply chain.",
+      "ideal_for": "Teams needing operational upskilling in regulated transport and procurement"
+    }
+  },
+  "availability": {
+    "status": "available",
+    "deployment_time": "48h",
+    "booking": "https://calendly.com/logistize/15min",
+    "formats": ["On-site mission", "Transition management", "Training", "Remote advisory", "Hand carry"]
+  },
+  "differentiators": [
+    "From dock to boardroom: CACES forklift + CODIR board presence",
+    "Crisis specialist: intervenes when consulting firms have already failed",
+    "Security clearance holder in nuclear/defense environments",
+    "M&A operator: acquired and integrated 3 companies, not just advised on it",
+    "1000+ transport supplier database across 3 continents",
+    "Defensive economic intelligence training (Sciences Po Aix)"
+  ],
+  "anti_profile": {
+    "not_for": [
+      "Maintaining existing Kaizen/5S processes",
+      "Long-term staff augmentation without clear problem to solve",
+      "PowerPoint-only consulting without field execution",
+      "Organizations unwilling to hear uncomfortable truths"
+    ],
+    "for": [
+      "Situations where nobody knows what to do",
+      "Post-consulting-firm project rescue",
+      "Critical sectors with stacked regulatory constraints",
+      "Leaders who want results, not reassurance"
+    ]
+  }
+}
